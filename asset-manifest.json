@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/poke-dux/static/css/main.56ebc352.css",
+    "main.js": "/poke-dux/static/js/main.8c2db3bb.js",
+    "static/media/logo.svg": "/poke-dux/static/media/logo.0905522d6d18ceaafa60a31e87c99e88.svg",
+    "index.html": "/poke-dux/index.html",
+    "main.56ebc352.css.map": "/poke-dux/static/css/main.56ebc352.css.map",
+    "main.8c2db3bb.js.map": "/poke-dux/static/js/main.8c2db3bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56ebc352.css",
+    "static/js/main.8c2db3bb.js"
+  ]
+}
